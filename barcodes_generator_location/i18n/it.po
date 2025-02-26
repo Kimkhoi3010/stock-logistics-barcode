@@ -19,9 +19,11 @@ msgstr ""
 #. module: barcodes_generator_location
 #: model:ir.model.fields,help:barcodes_generator_location.field_stock_location__generate_type
 msgid ""
-"Allow to generate barcode, including a number  (a base) in the final barcode.\n"
+"Allow to generate barcode, including a number  (a base) in the final "
+"barcode.\n"
 "\n"
-" - 'Base Set Manually' : User should set manually the value of the barcode base\n"
+" - 'Base Set Manually' : User should set manually the value of the barcode "
+"base\n"
 " - 'Base managed by Sequence': System will generate the base via a sequence"
 msgstr ""
 "Consente di generare un codice a barre, incluso un numero  (una base) nel "
